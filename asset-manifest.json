@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/inv-admin/static/css/main.70df0545.css",
-    "main.js": "/inv-admin/static/js/main.13a1b21b.js",
+    "main.js": "/inv-admin/static/js/main.e034af9f.js",
     "static/media/pattern-tree.svg": "/inv-admin/static/media/pattern-tree.156bb943ac7fd244f10c115d085e085e.svg",
     "static/media/home-decor-3.jpg": "/inv-admin/static/media/home-decor-3.cd42f0faa83f4e381f75.jpg",
     "static/media/home-decor-2.jpg": "/inv-admin/static/media/home-decor-2.b2eadbdedecfc0c7e6bd.jpg",
@@ -18,6 +18,6 @@
   },
   "entrypoints": [
     "static/css/main.70df0545.css",
-    "static/js/main.13a1b21b.js"
+    "static/js/main.e034af9f.js"
   ]
 }
