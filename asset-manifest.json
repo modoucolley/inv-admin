@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/inv-admin/static/css/main.70df0545.css",
-    "main.js": "/inv-admin/static/js/main.222ae513.js",
-    "static/media/pattern-tree.svg": "/inv-admin/static/media/pattern-tree.156bb943ac7fd244f10c115d085e085e.svg",
-    "static/media/home-decor-3.jpg": "/inv-admin/static/media/home-decor-3.cd42f0faa83f4e381f75.jpg",
-    "static/media/home-decor-2.jpg": "/inv-admin/static/media/home-decor-2.b2eadbdedecfc0c7e6bd.jpg",
-    "static/media/home-decor-1.jpg": "/inv-admin/static/media/home-decor-1.8ea567752df013c14430.jpg",
-    "static/media/mastercard.png": "/inv-admin/static/media/mastercard.27fca3e7637a9458fb64.png",
-    "static/media/team-1.jpg": "/inv-admin/static/media/team-1.0fd36e0ee93dcfacdef8.jpg",
-    "static/media/bruce-mars.jpg": "/inv-admin/static/media/bruce-mars.8a606c4a6dab54c9ceff.jpg",
-    "static/media/team-2.jpg": "/inv-admin/static/media/team-2.13ae2ce3e12f4cfed420.jpg",
-    "static/media/team-3.jpg": "/inv-admin/static/media/team-3.0ef0be95e6850814c79e.jpg",
-    "static/media/team-4.jpg": "/inv-admin/static/media/team-4.85c82b6e60178804017f.jpg",
-    "static/media/gambia.jpeg": "/inv-admin/static/media/gambia.d66130c74106032712c7.jpeg",
-    "index.html": "/inv-admin/index.html",
-    "static/media/logo-spotify.svg": "/inv-admin/static/media/logo-spotify.3f055cde07c024fb2b73063b46416f1b.svg"
+    "main.css": "/inv-backend/static/css/main.70df0545.css",
+    "main.js": "/inv-backend/static/js/main.5dfd810b.js",
+    "static/media/pattern-tree.svg": "/inv-backend/static/media/pattern-tree.431da656681abcdffac51bee04d7f581.svg",
+    "static/media/home-decor-3.jpg": "/inv-backend/static/media/home-decor-3.cd42f0faa83f4e381f75.jpg",
+    "static/media/home-decor-2.jpg": "/inv-backend/static/media/home-decor-2.b2eadbdedecfc0c7e6bd.jpg",
+    "static/media/home-decor-1.jpg": "/inv-backend/static/media/home-decor-1.8ea567752df013c14430.jpg",
+    "static/media/mastercard.png": "/inv-backend/static/media/mastercard.27fca3e7637a9458fb64.png",
+    "static/media/team-1.jpg": "/inv-backend/static/media/team-1.0fd36e0ee93dcfacdef8.jpg",
+    "static/media/bruce-mars.jpg": "/inv-backend/static/media/bruce-mars.8a606c4a6dab54c9ceff.jpg",
+    "static/media/team-2.jpg": "/inv-backend/static/media/team-2.13ae2ce3e12f4cfed420.jpg",
+    "static/media/team-3.jpg": "/inv-backend/static/media/team-3.0ef0be95e6850814c79e.jpg",
+    "static/media/team-4.jpg": "/inv-backend/static/media/team-4.85c82b6e60178804017f.jpg",
+    "static/media/gambia.jpeg": "/inv-backend/static/media/gambia.d66130c74106032712c7.jpeg",
+    "index.html": "/inv-backend/index.html",
+    "static/media/logo-spotify.svg": "/inv-backend/static/media/logo-spotify.3f055cde07c024fb2b73063b46416f1b.svg"
   },
   "entrypoints": [
     "static/css/main.70df0545.css",
-    "static/js/main.222ae513.js"
+    "static/js/main.5dfd810b.js"
   ]
 }
